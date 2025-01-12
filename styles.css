@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+ul{
+	text-align:center;
+}
+
+ul li{
+	display:inline;
+	margin-right:1rem;
+}
+
+a{
+	text-decoration:none;
+}
+main{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	background-color:peachpuff;
+}
+img{
+	height:15rem;
+	width:25rem;
+	margin-bottom:2rem;
+}
